@@ -94,6 +94,13 @@ result = mycursor.fetchall
 Names = []
 Marks = []
 
+
+
+
+
+
+https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Dash%20Components/Dropdown
+
 for i in mycursor:
 	Names.append(i[0])
 	Marks.append(i[1])
